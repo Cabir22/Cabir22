@@ -13,7 +13,7 @@ I build AI systems that solve practical problems, especially in **multilingual**
 I came to AI from **radio-frequency engineering and information security**: years of calibrating aviation radio-navigation equipment, plus a master's in telecom systems security. That background shaped how I work: measure carefully, treat data responsibly, and build things that hold up in real use.
 
 **🔭 Currently working on**
-- **Multilingual PII detection & masking:** models trained on synthetic data in Azerbaijani, Turkish, Russian and English *(private for now)*
+- - **Multilingual PII detection & masking:** models trained on synthetic data in Azerbaijani, Turkish, Russian and English ([repo](https://github.com/Cabir22/pii-masking))
 - **LLM fine-tuning:** adapting open models to domain-specific decision tasks, with synthetic data generation and validation
 - **Document AI:** OCR-based text extraction feeding into sensitive-data masking pipelines
 
@@ -40,6 +40,7 @@ I came to AI from **radio-frequency engineering and information security**: year
 </p>
 
 **Highlights**
+- 🔒 **[PII Masking](https://github.com/Cabir22/pii-masking):** multilingual detection and masking of personally identifiable information (names, IDs, contacts, addresses and more) in Azerbaijani, Turkish, Russian and English. The model is trained on synthetic data, and sensitive values are masked before data leaves the system. *Python · Hugging Face Transformers*
 - 📝 **[FormTriage](https://github.com/Cabir22/form-triage):** local web app for designing and evaluating automated checks on scanned forms. Three vision decision models (imajev-4b, Jev-Omni, THX-02) answer plain-English questions side by side with no OCR or templates; low-confidence answers are routed to human review. *FastAPI · PyMuPDF · Hugging Face Spaces*
 - 🎓 **[Exam Cheating Detection](https://github.com/Cabir22/Cheating_detection_in_exam):** real-time phone detection in exam surveillance footage; YOLO as the fast detection layer, with a VLM verifying ambiguous cases. *YOLO · OpenCV · VLM*
 
