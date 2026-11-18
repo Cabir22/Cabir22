@@ -54,5 +54,3 @@ I came to AI from **radio-frequency engineering and information security**: year
   <a href="https://huggingface.co/Cab1r"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" /></a>
   <a href="mailto:cabir.abbasov22@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
-
-<p align="center"><sub>cabir22 · <a href="https://www.gitskins.com/readme-generator?template=community-mani-developer-portfolio-pz5g">Mani Developer Portfolio</a> template by <a href="https://www.gitskins.com/creators/tylerderdan1">@tylerderdan1</a> · generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
