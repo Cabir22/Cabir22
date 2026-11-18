@@ -36,7 +36,15 @@ I came to AI from **radio-frequency engineering and information security**: year
 ## Projects
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/projects?username=cabir22&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F245001731%3Fv%3D4" alt="cabir22 projects visual" />
+  <a href="https://github.com/Cabir22/pii-masking">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cabir22&repo=pii-masking&theme=github_dark&hide_border=true" />
+  </a>
+  <a href="https://github.com/Cabir22/form-triage">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cabir22&repo=form-triage&theme=github_dark&hide_border=true" />
+  </a>
+  <a href="https://github.com/Cabir22/Cheating_detection_in_exam">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cabir22&repo=Cheating_detection_in_exam&theme=github_dark&hide_border=true" />
+  </a>
 </p>
 
 **Highlights**
