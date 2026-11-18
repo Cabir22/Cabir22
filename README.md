@@ -13,7 +13,7 @@ I build AI systems that solve practical problems, especially in **multilingual**
 I came to AI from **radio-frequency engineering and information security**: years of calibrating aviation radio-navigation equipment, plus a master's in telecom systems security. That background shaped how I work: measure carefully, treat data responsibly, and build things that hold up in real use.
 
 **🔭 Currently working on**
-- - **Multilingual PII detection & masking:** models trained on synthetic data in Azerbaijani, Turkish, Russian and English ([repo](https://github.com/Cabir22/pii-masking))
+- **Multilingual PII detection & masking:** models trained on synthetic data in Azerbaijani, Turkish, Russian and English ([repo](https://github.com/Cabir22/pii-masking))
 - **LLM fine-tuning:** adapting open models to domain-specific decision tasks, with synthetic data generation and validation
 - **Document AI:** OCR-based text extraction feeding into sensitive-data masking pipelines
 
